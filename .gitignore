@@ -4,4 +4,4 @@
 !/RockWeb/Bin/
 /RockWeb/Bin/*
 !/RockWeb/Bin/Rock.dll
-!/RockWeb/Bin/DotLess.dll
+!/RockWeb/Bin/DotLiquid.dll
