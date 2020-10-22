@@ -24,4 +24,4 @@ jobs:
     - name: Upload a Build Artifact
       uses: actions/upload-artifact@v2.2.0
       with:
-        path: ${{ github.workspace }}/Geode.RockUtils.GroupRequirements/bin/Release/Geode.RockUtils.GroupRequirements.dll
+        path: ${{ github.workspace }}/Geode.RockUtils.GroupRequirements/bin/Release/net452/Geode.RockUtils.GroupRequirements.dll
